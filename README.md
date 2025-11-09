@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Firebase Video Automation](https://github.com/radhikamehra559gith/auto/actions/workflows/firebase_automation.yml/badge.svg)](https://github.com/radhikamehra559gith/auto/actions/workflows/firebase_automation.yml)
 <!--
 **radhikamehra559gith/radhikamehra559gith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
